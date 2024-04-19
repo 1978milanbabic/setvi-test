@@ -24,11 +24,11 @@ To get a local copy of the project, follow these steps:
 
 ### Clone the repository
 
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/1978milanbabic/setvi-test
 
 ### Navigate to the project directory
 
-cd your-project
+cd setvi-test
 
 ### Install dependencies
 
